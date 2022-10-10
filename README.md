@@ -2,7 +2,7 @@
 
 Here is the demo Mint UI URL : https://final-aim-mint-ui.vercel.app/
 
-## Candy Machine Mint UI local deployment
+### Candy Machine Mint UI local deployment
 - Clone repository `git clone https://github.com/ernitingarg09/solana-metaplex.git`
 - Checkout branch `mint-ui`
 - Go to folder `js/packages/candy-machine-ui`
