@@ -1,3 +1,3 @@
-# final-aim-mint-ui
+# Solana NFT Mint UI
 
-Here is the Mint UI URL : https://final-aim-mint-ui.vercel.app/
+Here is the demo Mint UI URL : https://final-aim-mint-ui.vercel.app/
